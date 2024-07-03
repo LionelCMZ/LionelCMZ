@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Lionel Cesar Morales Zambrana 👋
+### About me
+### Web Developer with JavaScript, React
 
 <!--
 **LionelCMZ/LionelCMZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
